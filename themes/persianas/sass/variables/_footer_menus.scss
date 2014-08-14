@@ -1,0 +1,49 @@
+#block-menu-menu-footer-menu{
+  color: #fff;
+  display: block;
+  width: 300px;
+  position: relative;
+  left: 150px;
+  a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: lighter;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+
+  ul{
+    padding: 0px
+  }
+
+  ul li{
+    list-style: none;
+    margin-bottom: 3px;
+  }
+}
+
+#block-menu-menu-menu-contacto{
+  display: block;
+  width: 300px;
+  float: right;
+  top: -160px;
+
+  a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: lighter;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+
+  li{
+    list-style: none;
+  }
+}
+
+
+
+
+

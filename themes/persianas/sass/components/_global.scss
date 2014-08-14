@@ -1,0 +1,37 @@
+.l-region--header {
+	z-index: -1000;
+}
+
+.l-region--navigation{
+  background: #000;
+  color: #fff;
+  padding-top: 20px;
+  height: 57px;
+  position: absolute;
+  width: 100%;
+  top: 70px;
+  z-index: 1000;
+}
+
+.l-main{
+  width: 990px;
+  margin: 50px auto;
+}
+
+.l-region--sidebar-first {
+  width: 655px;
+  display: block;
+  float: left;
+}
+
+.l-region--sidebar-second{
+  width: 290px;
+  display: block;
+  margin-left: 664px;
+}
+.l-footer{
+  background: url('../images/bg_footer.png');
+  padding-bottom: 70px;
+  padding-top: 20px;
+  margin-top: 100px;
+}

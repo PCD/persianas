@@ -1,0 +1,38 @@
+#block-views-home-carrousel-block{
+  text-align: center;
+  .slider {
+    display: block;
+    width: 344px;
+    margin: -40px auto 0 auto;
+    background: rgba(0,0,0,0.3);
+    padding: 1px;
+    z-index: 1000;
+    color: #fff;
+  }
+  .description{
+  	display: block;
+	  width: 345px;
+	  height: 85px;
+	  background: rgba(0,0,0,0.5);
+	  margin-top: -89px;
+	  z-index: 1000;
+	  position: absolute;
+	  text-align: left;
+	  right: 795px;
+	  color:#fff;
+    padding-left: 10px;
+  }
+
+  h2,h3{
+  	margin: 0px;
+  }
+
+  h2{
+  	font-size: 30px;
+  	letter-spacing: 1px;
+  }
+
+  h3{
+  	font-size: 16;
+  }
+}

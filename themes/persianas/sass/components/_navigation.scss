@@ -1,0 +1,34 @@
+#block-system-main-menu{
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  ul{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0px;
+  }
+  ul li{
+    float: right;
+    list-style: none;
+    margin-right: 15px;
+  }
+
+  ul li a{
+    text-decoration: none;
+    color: #fff;
+  }
+
+  ul li a:hover{
+    text-decoration: underline;
+  }
+
+  #home{
+    display: block;
+    width: 250px;
+    height: 200px;
+    margin-top: -49px;
+    text-indent: -9999px;
+    background: url("../images/logo.png") no-repeat;
+    background-size: 108%;
+  }
+}
