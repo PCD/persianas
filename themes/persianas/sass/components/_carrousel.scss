@@ -35,4 +35,15 @@
   h3{
   	font-size: 16;
   }
+
+  .field-name-field-image-slider{
+    overflow: hidden;
+    height: 439px;
+    width: 100%;
+
+    img{
+      width: 100%;
+      height: auto;
+    }
+  }
 }
