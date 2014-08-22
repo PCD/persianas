@@ -161,9 +161,8 @@ img, media {
   #block-views-home-carrousel-block .field-name-field-image-slider {
     overflow: hidden;
     height: auto;
-    width: 100%;
-    min-width: 990px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000347}}
+    width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000346}}
     #block-views-home-carrousel-block .field-name-field-image-slider img {
       width: 100%;
       height: auto; }
