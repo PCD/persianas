@@ -179,30 +179,29 @@ img, media {
   padding-top: 20px;
   height: 57px;
   position: absolute;
-  min-width: 1200px;
   top: 70px;
   z-index: 1000;
   width: 100%;
   position: fixed; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000317}}
 .l-main {
   max-width: 990px;
   margin: 0px auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000322}}
 .l-region--sidebar-first {
   width: 655px;
   display: block;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000328}}
 .l-region--sidebar-second {
   width: 290px;
   display: block;
   margin-left: 664px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000333}}
 .l-footer {
   background: url("../images/bg_footer.png");
   padding-bottom: 70px;
@@ -210,22 +209,22 @@ img, media {
   margin-top: 300px;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000341}}
 .breadcrumb {
   display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000345}}
 .field-collection-container {
   border-bottom: none; }
 
 @media screen and (max-width: 990px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000351}}
   .l-region--sidebar-first {
     width: 100%;
     display: block;
     text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000357}}
   .l-region--sidebar-second {
     width: 100%;
     display: block;
