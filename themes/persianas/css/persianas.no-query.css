@@ -140,32 +140,51 @@ img, media {
     width: 345px;
     height: 85px;
     background: rgba(0, 0, 0, 0.5);
-    top: 71%;
-    z-index: 1000;
-    position: absolute;
+    top: -21px;
+    z-index: 100;
+    position: relative;
     text-align: left;
-    right: 62%;
+    right: 308px;
+    margin: -7% auto 0 auto;
     color: #fff;
     padding-left: 10px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000328}}
+    #block-views-home-carrousel-block .description a {
+      color: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000333}}
   #block-views-home-carrousel-block h2, #block-views-home-carrousel-block h3 {
     margin: 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000337}}
   #block-views-home-carrousel-block h2 {
     font-size: 30px;
     letter-spacing: 1px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000342}}
   #block-views-home-carrousel-block h3 {
     font-size: 16; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000346}}
   #block-views-home-carrousel-block .field-name-field-image-slider {
     overflow: hidden;
     height: auto;
     width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000351}}
     #block-views-home-carrousel-block .field-name-field-image-slider img {
       width: 100%;
       height: auto; }
+  @media screen and (max-width: 990px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_carrousel\.scss}line{font-family:\0000358}}
+    #block-views-home-carrousel-block .description {
+      display: block;
+      width: 99%;
+      height: 85px;
+      background: rgba(0, 0, 0, 0.5);
+      top: 0px;
+      z-index: 1000;
+      position: relative;
+      text-align: left;
+      right: 0px;
+      margin: 0 auto 0 auto;
+      color: #fff;
+      padding-left: 10px; } }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\000031}}
 .l-region--header {
@@ -180,27 +199,26 @@ img, media {
   position: absolute;
   top: 70px;
   z-index: 1000;
-  width: 100%;
-  position: fixed; }
+  width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000316}}
 .l-main {
   max-width: 990px;
   margin: 0px auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000321}}
 .l-region--sidebar-first {
   width: 655px;
   display: block;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000327}}
 .l-region--sidebar-second {
   width: 290px;
   display: block;
   margin-left: 664px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000332}}
 .l-footer {
   background: url("../images/bg_footer.png");
   padding-bottom: 70px;
@@ -208,22 +226,22 @@ img, media {
   margin-top: 300px;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000340}}
 .breadcrumb {
   display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000344}}
 .field-collection-container {
   border-bottom: none; }
 
 @media screen and (max-width: 990px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000350}}
   .l-region--sidebar-first {
     width: 100%;
     display: block;
     text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_global\.scss}line{font-family:\0000356}}
   .l-region--sidebar-second {
     width: 100%;
     display: block;
@@ -236,7 +254,7 @@ img, media {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_home\.scss}line{font-family:\000037}}
   .page-home-persianas .view-id-home_persianas .views-row .views-field-title,
   .view-display-id-page_1 .views-row .views-field-title {
-    z-index: 10000;
+    z-index: 100;
     display: block;
     min-width: 189px;
     max-width: 317px;
@@ -322,6 +340,41 @@ img, media {
     background: url("../images/logo.png") no-repeat;
     background-size: 108%; }
 
+@media screen and (max-width: 990px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000339}}
+  .l-region--navigation {
+    width: 150px;
+    height: 130px;
+    margin: 0 0 0 20px;
+    background: rgba(0, 0, 0, 0.8);
+    padding-top: 0px;
+    box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.5); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000348}}
+  #block-system-main-menu {
+    background: url("../images/logo.png") no-repeat;
+    background-size: 100%;
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin: -15px 0 0 -23px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000356}}
+    #block-system-main-menu > ul {
+      width: 130px;
+      margin: 10px auto;
+      display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000362}}
+    #block-system-main-menu ul > li {
+      float: none;
+      margin: 5px auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000367}}
+    #block-system-main-menu #home {
+      background: none;
+      text-indent: 0px;
+      height: auto;
+      width: auto;
+      margin-top: 0px;
+      display: none; } }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_persiana_page\.scss}line{font-family:\000032}}
 .node-type-persiana .group-left {
   width: 480px; }

@@ -13,16 +13,21 @@
 
   .description{
   	display: block;
-	  width: 345px;
-	  height: 85px;
-	  background: rgba(0,0,0,0.5);
-	  top: 71%;
-	  z-index: 1000;
-	  position: absolute;
-	  text-align: left;
-	  right: 62%;
-	  color:#fff;
+    width: 345px;
+    height: 85px;
+    background: rgba(0, 0, 0, 0.5);
+    top: -21px;
+    z-index: 100;
+    position: relative;
+    text-align: left;
+    right: 308px;
+    margin: -7% auto 0 auto;
+    color: #fff;
     padding-left: 10px;
+
+    a{
+      color: #fff;
+    }
   }
 
   h2,h3{
@@ -46,6 +51,23 @@
     img{
       width: 100%;
       height: auto;
+    }
+  }
+
+  @media screen and(max-width: 990px){
+    .description{
+      display: block;
+      width: 99%;
+      height: 85px;
+      background: rgba(0, 0, 0, 0.5);
+      top: 0px;
+      z-index: 1000;
+      position: relative;
+      text-align: left;
+      right: 0px;
+      margin: 0 auto 0 auto;
+      color: #fff;
+      padding-left: 10px;
     }
   }
 }
