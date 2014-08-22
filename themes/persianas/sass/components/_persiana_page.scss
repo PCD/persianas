@@ -74,4 +74,28 @@
       font-weight: normal;
     }
   }
+
+  @media screen and (max-width: 990px){
+    .group-right,
+    .group-left{
+      width: 100%;
+      height: auto ;
+    }
+
+    .group-left{
+      .field-slideshow{
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+
+      }
+    }
+
+    .group-right{
+      .promo{
+        width: 100%;
+        margin-left: 1px;
+      }
+    }
+  }
 }

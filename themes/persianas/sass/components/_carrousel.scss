@@ -9,16 +9,18 @@
     z-index: 1000;
     color: #fff;
   }
+  
+
   .description{
   	display: block;
 	  width: 345px;
 	  height: 85px;
 	  background: rgba(0,0,0,0.5);
-	  margin-top: -89px;
+	  top: 71%;
 	  z-index: 1000;
 	  position: absolute;
 	  text-align: left;
-	  right: 795px;
+	  right: 62%;
 	  color:#fff;
     padding-left: 10px;
   }
@@ -38,8 +40,9 @@
 
   .field-name-field-image-slider{
     overflow: hidden;
-    height: 439px;
+    height: auto;
     width: 100%;
+    min-width: 990px;
 
     img{
       width: 100%;

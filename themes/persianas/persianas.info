@@ -17,6 +17,7 @@ stylesheets[all][] = css/persianas.no-query.css
 ; Scripts
 ; ========================================
 scripts[] = js/persianas.behaviors.js
+scripts[] = js/responsive_menu.js
 
 ; ========================================
 ; Regions

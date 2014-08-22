@@ -2,8 +2,7 @@
 .view-display-id-page_1{
   .views-row{
     display: inline-block;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    margin: 5px ;
 
     .views-field-title{
       z-index: 10000;
@@ -28,4 +27,38 @@
 
 
   }
+
+  @media screen and(max-width: 990px){
+    .views-row{
+      display: inline-block;
+      margin: 1%; ;
+      width: 47%;
+      img{
+        width: 100%;
+        height: auto;
+      }
+
+      .views-field-title{
+        z-index: 10000;
+        display: block;
+        min-width: 189px;
+        max-width: 317px;
+        overflow: hidden;
+        text-overflow:ellipsis;
+        height: 36px;
+        padding: 10px;
+        margin-top: -40px;
+        position: absolute;
+        background: rgba(0, 0, 0, 0.5);      
+        span a{
+          font-size: 17px;
+          font-weight: lighter;
+          margin: 0px;
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
 }

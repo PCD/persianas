@@ -42,9 +42,10 @@
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/variables\/_typography\.scss}line{font-family:\000031}}
 h1 {
   font-size: 45px;
-  font-weight: bolder; }
+  font-weight: bolder;
+  margin: 0px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/variables\/_typography\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/variables\/_typography\.scss}line{font-family:\000037}}
 .page-node p {
   font-size: 20px; }
 
