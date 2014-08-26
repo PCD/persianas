@@ -343,38 +343,57 @@ img, media {
 @media screen and (max-width: 990px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000339}}
   .l-region--navigation {
-    width: 150px;
-    height: 130px;
-    margin: 0 0 0 20px;
-    background: rgba(0, 0, 0, 0.8);
+    width: 20%;
+    height: 100px;
+    margin: 0 0 0 10px;
+    background: none;
     padding-top: 0px;
-    box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.5); }
+    top: -1%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000348}}
   #block-system-main-menu {
-    background: url("../images/logo.png") no-repeat;
-    background-size: 100%;
-    width: 200px;
-    height: 100px;
-    display: block;
-    margin: -15px 0 0 -23px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000356}}
+    width: 95%;
+    height: 70px;
+    margin: 0 0 0 10px;
+    background: url("../images/mob_menu.png") no-repeat center center, rgba(0, 0, 0, 0.8);
+    padding-top: 60px;
+    top: 2%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000357}}
     #block-system-main-menu > ul {
-      width: 130px;
-      margin: 10px auto;
-      display: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000362}}
-    #block-system-main-menu ul > li {
-      float: none;
-      margin: 5px auto; }
+      width: 150px;
+      margin: 0 auto;
+      padding: 10px;
+      background: #000;
+      z-index: 10px;
+      display: none;
+      transition: 1s; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000367}}
+    #block-system-main-menu ul > li {
+      width: 100%;
+      float: none;
+      margin: 10px auto;
+      background: gray;
+      padding: 2px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000375}}
     #block-system-main-menu #home {
-      background: none;
-      text-indent: 0px;
-      height: auto;
+      display: block;
       width: auto;
+      height: auto;
       margin-top: 0px;
-      display: none; } }
+      text-indent: 0px;
+      background: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000384}}
+  #block-system-main-menu:hover {
+    cursor: pointer; } }
+@media screen and (max-width: 500px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000391}}
+  .l-region--navigation {
+    width: 95%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\0000396}}
+  #block-system-main-menu > ul {
+    width: 95%; } }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_persiana_page\.scss}line{font-family:\000032}}
 .node-type-persiana .group-left {
   width: 480px; }

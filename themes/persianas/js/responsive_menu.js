@@ -4,13 +4,19 @@
    */
   Drupal.behaviors.persianas_menu = {
     attach: function (context, settings) {
-    	  $('.page-node', context).once('processed', function () {
-          $(window).resize(function(){
-            if (parseInt($(window).width()) < 990) {
-              $('#block-system-main-menu').addClass("jala");
+            
+            var ancho = $(window).width();
+            var ancho_num  = parseInt($(window).width());          
+
+          $('#block-system-main-menu').click(function(){
+
+            if ( ancho_num  < 990 ) {
+              
+              $('#block-system-main-menu .menu').slideToggle();
+
             };
+            
           });
-		    }); 
     }
   };
 })(jQuery);
