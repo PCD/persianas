@@ -289,16 +289,15 @@ img, media {
     .view-display-id-page_1 .views-row .views-field-title {
       z-index: 10000;
       display: block;
-      min-width: 189px;
-      max-width: 317px;
+      width: 100%;
       overflow: hidden;
       text-overflow: ellipsis;
       height: 36px;
       padding: 10px;
       margin-top: -40px;
-      position: absolute;
+      position: relative;
       background: rgba(0, 0, 0, 0.5); }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_home\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_home\.scss}line{font-family:\0000351}}
       .page-home-persianas .view-id-home_persianas .views-row .views-field-title span a,
       .view-display-id-page_1 .views-row .views-field-title span a {
         font-size: 17px;
