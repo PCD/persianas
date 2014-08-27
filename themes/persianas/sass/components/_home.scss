@@ -7,14 +7,13 @@
     .views-field-title{
       z-index: 100;
       display: block;
-      min-width: 189px;
-      max-width: 317px;
+      width: 100%;
       overflow: hidden;
       text-overflow:ellipsis;
       height: 36px;
       padding: 10px;
       margin-top: -40px;
-      position: absolute;
+      position: relative;
       background: rgba(0, 0, 0, 0.5);      
       span a{
         font-size: 17px;
@@ -61,10 +60,6 @@
     }
   }
 
-  @media screen and(max-width: 40px){
-    .views-row .views-field-title{
-      max-width: 200px;
-    }
-  }
+  
 
 }
