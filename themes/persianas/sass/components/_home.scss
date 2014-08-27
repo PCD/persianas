@@ -37,25 +37,7 @@
         height: auto;
       }
 
-      .views-field-title{
-        z-index: 10000;
-        display: block;
-        width:100%;
-        overflow: hidden;
-        text-overflow:ellipsis;
-        height: 36px;
-        padding: 10px;
-        margin-top: -40px;
-        position: relative;
-        background: rgba(0, 0, 0, 0.5);      
-        span a{
-          font-size: 17px;
-          font-weight: lighter;
-          margin: 0px;
-          color: #fff;
-          text-decoration: none;
-        }
-      }
+      
     }
   }
 
