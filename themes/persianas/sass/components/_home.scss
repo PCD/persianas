@@ -61,4 +61,10 @@
     }
   }
 
+  @media screen and(max-width: 40px){
+    .views-row .views-field-title{
+      max-width: 200px;
+    }
+  }
+
 }

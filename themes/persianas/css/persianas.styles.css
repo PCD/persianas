@@ -307,6 +307,11 @@ img, media {
         margin: 0px;
         color: #fff;
         text-decoration: none; } }
+@media screen and (max-width: 40px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_home\.scss}line{font-family:\0000365}}
+  .page-home-persianas .view-id-home_persianas .views-row .views-field-title,
+  .view-display-id-page_1 .views-row .views-field-title {
+    max-width: 200px; } }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.persianas\.com\/themes\/persianas\/sass\/components\/_navigation\.scss}line{font-family:\000031}}
 #block-system-main-menu {
